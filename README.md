@@ -1,2 +1,1 @@
-# KrantArtikel
-opdracht kranten artikel
+# LAB3-Krantenartikel

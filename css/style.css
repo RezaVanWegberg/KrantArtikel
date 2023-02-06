@@ -1,0 +1,32 @@
+body {
+    background-color: aqua;
+}
+
+.-float-left- {
+    float: left;
+}
+
+.-float-right- {
+    float: right;
+}
+
+#-vloot1- {
+    margin: 0px 10px 10px 0px
+}
+
+#-vloot2- {
+    margin: 10px 0px 10px 10px;
+}
+
+#-vloot3- {
+    margin: 10px 10px 10px 0px;
+}
+
+#col-1 {
+    border: 5px solid black;
+    padding: 10px;
+}
+
+img {
+    border: 2px black solid;
+}
